@@ -181,8 +181,7 @@ ul{
     display: flex;
     background-image:
     linear-gradient(to bottom, rgba(42, 42, 43, 0.712), rgba(28, 27, 49, 0.73)),
-     url('/images/digital-mf.png');
-    
+     url('images/digital-mf.png');
     height: 100vh;
     color: #fff;
     min-height: 500px;
